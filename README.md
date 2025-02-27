@@ -12,3 +12,5 @@ Learn Redis:
    ![Screenshot 2025-02-27 091407](https://github.com/user-attachments/assets/56d39fca-5218-4af7-8587-6212786861c6)
 4. Standard
    ![Screenshot 2025-02-27 091502](https://github.com/user-attachments/assets/ff51c18e-c61e-44f1-b64b-3dc18476679d)
+5. Final
+   ![Screenshot 2025-02-27 091721](https://github.com/user-attachments/assets/1e862e0d-c6b7-4470-8903-f8dbb0fb1329)
